@@ -15,5 +15,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: Ashiven
+          plugin_leetcode_user: ashiven
           plugin_leetcode_sections: solved, skills, recent
