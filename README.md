@@ -1,2 +1,7 @@
-# Leetcode-Solutions
-A collection of my solutions and notes taken while working through leetcode problems.
+<div align="center">
+
+<picture>
+  <img src="/metrics.plugin.leetcode.svg" alt="Metrics">
+</picture>
+
+</div>
