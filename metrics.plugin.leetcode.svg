@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.896856234546096 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">154</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.013069586718473 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">155</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2831</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.23413258110014 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">63</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.698166431593794 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">64</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/709</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -64,7 +64,7 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x91</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x31</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x32</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x23</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x19</span></div>
@@ -82,6 +82,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Repeated Substring Pattern</div>
+                            <div class="date">21 Aug 2023</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -116,15 +125,6 @@
                         <div class="infos">
                             <div class="title">Maximal Network Rank</div>
                             <div class="date">18 Aug 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Insert Greatest Common Divisors in Linked List</div>
-                            <div class="date">17 Aug 2023</div>
                         </div>
                     </div>
                 </section>
