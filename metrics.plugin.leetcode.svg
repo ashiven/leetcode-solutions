@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.910147991543344 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">189</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.41719520789288 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">202</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2838</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.943741209563996 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">82</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="42.57102672292546 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">92</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/711</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.60612109115103 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">85</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.262807717897537 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">88</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1503</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x106</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x42</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x32</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x29</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x24</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x24</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x23</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x109</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x48</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x39</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x30</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x25</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x25</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x24</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x22</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x21</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x21</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x22</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x22</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,7 +87,16 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Palindromic Substrings</div>
+                            <div class="title">Extra Characters in a String</div>
+                            <div class="date">2 Sept 2023</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Count and Say</div>
                             <div class="date">1 Sept 2023</div>
                         </div>
                     </div>
@@ -96,7 +105,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Counting Bits</div>
+                            <div class="title">Isomorphic Strings</div>
                             <div class="date">1 Sept 2023</div>
                         </div>
                     </div>
@@ -105,8 +114,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">First Missing Positive</div>
-                            <div class="date">31 Aug 2023</div>
+                            <div class="title">Contains Duplicate II</div>
+                            <div class="date">1 Sept 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -114,17 +123,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Number of Taps to Open to Water a Garden</div>
-                            <div class="date">31 Aug 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Find First and Last Position of Element in Sorted Array</div>
-                            <div class="date">31 Aug 2023</div>
+                            <div class="title">Count Complete Tree Nodes</div>
+                            <div class="date">1 Sept 2023</div>
                         </div>
                     </div>
                 </section>
